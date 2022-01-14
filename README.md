@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=Day-Bright&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="100%" height="100%" />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Day-Bright)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Day-Bright)](https://github.com/anuraghazra/github-readme-stats)
 
