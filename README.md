@@ -19,5 +19,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Day-Bright&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<a href="https://github.com/Day-Bright/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Day-Bright&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Day-Bright/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Day-Bright&repo=convoychat" />
+</a>
 
