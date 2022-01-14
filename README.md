@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div style="display:flex">
- <img src='https://github-readme-stats.vercel.app/api?username=Day-Bright
-&show_icons=true&count_private=true' height=170 align="left" />
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Day-Bright
-&layout=compact' height=170 align="right"/>
+ <img src='https://github-readme-stats.vercel.app/api?username=Day-Bright&show_icons=true&count_private=true' height=170 align="left" />
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Day-Bright&layout=compact' height=170 align="right"/>
 </div>
